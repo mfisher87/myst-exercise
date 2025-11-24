@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 93a24bd3-a26c-45ef-ba79-b7a606b6d21d
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/mfisher87/myst-exercise
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
