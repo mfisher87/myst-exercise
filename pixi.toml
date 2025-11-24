@@ -9,3 +9,4 @@ version = "0.1.0"
 
 [dependencies]
 mystmd = ">=1.6.6,<2"
+typst = ">=0.14.0,<0.15"
