@@ -1,3 +1,18 @@
+---
+authors:
+  - name: "Matt Fisher"
+    affiliations:
+      - "Schmidt Center for Data Science & Environment"
+      - "University of California, Berkeley"
+    email: "matt.fisher@berkeley.edu"
+    github: "mfisher87"
+    orcid: "0000-0003-3260-5445"
+export:
+  - format: "typst"
+    template: "plain_typst_book"
+    output: "paper.pdf"
+---
+
 # My document title
 
 Hello, world!
