@@ -11,6 +11,7 @@ export:
   - format: "typst"
     template: "plain_typst_book"
     output: "paper.pdf"
+  - format: "cff"
 ---
 
 # My document title

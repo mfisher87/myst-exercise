@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this project.
+title: My document title
+authors:
+  - family-names: Fisher
+    given-names: Matt
+    affiliation: Schmidt Center for Data Science & Environment
+    orcid: 0000-0003-3260-5445
+    email: matt.fisher@berkeley.edu
+contact:
+  - family-names: Fisher
+    given-names: Matt
+    affiliation: Schmidt Center for Data Science & Environment
+    orcid: 0000-0003-3260-5445
+    email: matt.fisher@berkeley.edu
+repository: https://github.com/mfisher87/myst-exercise
